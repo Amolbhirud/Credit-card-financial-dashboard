@@ -1,2 +1,2 @@
-# Credit-card-financial-dashboard
+# Credit card Analysis
 Power bi dashboard
